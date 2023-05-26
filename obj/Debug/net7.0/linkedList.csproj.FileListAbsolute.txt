@@ -1,0 +1,15 @@
+C:\Users\vitor\Desktop\linkedList\bin\Debug\net7.0\linkedList.exe
+C:\Users\vitor\Desktop\linkedList\bin\Debug\net7.0\linkedList.deps.json
+C:\Users\vitor\Desktop\linkedList\bin\Debug\net7.0\linkedList.runtimeconfig.json
+C:\Users\vitor\Desktop\linkedList\bin\Debug\net7.0\linkedList.dll
+C:\Users\vitor\Desktop\linkedList\bin\Debug\net7.0\linkedList.pdb
+C:\Users\vitor\Desktop\linkedList\obj\Debug\net7.0\linkedList.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\linkedList\obj\Debug\net7.0\linkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\linkedList\obj\Debug\net7.0\linkedList.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\linkedList\obj\Debug\net7.0\linkedList.AssemblyInfo.cs
+C:\Users\vitor\Desktop\linkedList\obj\Debug\net7.0\linkedList.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\linkedList\obj\Debug\net7.0\linkedList.dll
+C:\Users\vitor\Desktop\linkedList\obj\Debug\net7.0\refint\linkedList.dll
+C:\Users\vitor\Desktop\linkedList\obj\Debug\net7.0\linkedList.pdb
+C:\Users\vitor\Desktop\linkedList\obj\Debug\net7.0\linkedList.genruntimeconfig.cache
+C:\Users\vitor\Desktop\linkedList\obj\Debug\net7.0\ref\linkedList.dll
